@@ -4,5 +4,5 @@ Flask
 sklearn
 pandas
 numpy
->>>>>>> 6046294a702db3c1bf6b053c9fe0cd646c2cbea1
 matplotlib
+gunicorn
