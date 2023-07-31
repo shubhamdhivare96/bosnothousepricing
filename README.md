@@ -11,4 +11,4 @@ create a new environment
 
 '''
 conda create -p venv python==3.10.2 -y
-'''
+'''   
